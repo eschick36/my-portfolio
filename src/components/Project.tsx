@@ -1,22 +1,22 @@
 import React from "react";
-import mock09 from '../assets/images/mock09.png';
-import mock10 from '../assets/images/mock10.png';
+import proj287g from '../assets/images/proj-287g.png';
+import projlonestar from '../assets/images/proj-lonestar.png';
 import '../assets/styles/Project.scss';
 
 function Project() {
     return(
     <div className="projects-container" id="projects">
-        <h1>Personal Projects</h1>
+        <h1>Projects and Publications</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><h2>Filmate AI</h2></a>
-                <p>Developed movie finder app with semantic search and sentiment analysis using OpenAI GPT-3.5 Turbo, Qdrant, React, and Flask.</p>
+                <a href="https://www.aclu.org/publications/deputized-for-disaster" target="_blank" rel="noreferrer"><img src={proj287g} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.aclu.org/publications/deputized-for-disaster" target="_blank" rel="noreferrer"><h2>ACLU Report on 287(g) Agreements</h2></a>
+                <p>Provided analysis and data visualizations for this report.</p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><h2>High Speed Chase</h2></a>
-                <p>Designed, developed, and launched a 3D multiplayer racing game with C# and Unity. This is available on Itch.io for gamers worldwide to enjoy.</p>
+                <a href="https://www.aclutx.org/publications/operation-lone-star-misinformation-and-discrimination-texas-border-enforcement/" target="_blank" rel="noreferrer"><img src={projlonestar} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.aclutx.org/publications/operation-lone-star-misinformation-and-discrimination-texas-border-enforcement/" target="_blank" rel="noreferrer"><h2>ACLU-TX Report on Border Enforcement</h2></a>
+                <p>Collaborated on strategy, data analysis, and visualizations for this 2024 report.</p>
             </div>
         </div>
     </div>
