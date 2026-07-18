@@ -52,7 +52,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faReact} size="3x"/>
                     <h3>Non-Technical Skills</h3>
-                    <p>Outside of the tech stack, I have experience leading collaborative, communication-forward strategic work.</p>
+                    <p>Outside of the tech stack, I have experience leading collaborative, communication-forward strategic work. I manage stakeholder communications, mentor teammates and interns, and frequently present at internal and external sessions.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Skills:</span>
                         {labelsSecond.map((label, index) => (

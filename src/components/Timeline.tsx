@@ -21,7 +21,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Lead Analyst</h3>
             <h4 className="vertical-timeline-element-subtitle">New York, NY</h4>
             <p>
-              Lead data strategy for political advocacy, litigation, and grassroots organizing.
+              Lead data strategy for political advocacy, litigation, and grassroots organizing. Deliver actionable, data-driven work to stakeholders across strategy and advocacy functions with high autonomy and ownership of impact.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -33,7 +33,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Data Scientist</h3>
             <h4 className="vertical-timeline-element-subtitle">Remote</h4>
             <p>
-              Managed analysis for product strategy, fundraising, and communications.
+              Managed analysis for product strategy, fundraising, and communications. Provided data-driven research for technical and non-technical stakeholders.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -45,7 +45,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Applied Data Scientist II</h3>
             <h4 className="vertical-timeline-element-subtitle">Washington, DC</h4>
             <p>
-              Developed and maintained data pipelines and strategic deliverables for campaigns and nonprofits.
+              Developed and maintained data pipelines and strategic deliverables for campaigns and nonprofits. Consulted with progressive nonprofits, campaigns, and PACs to report analytical insights.
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
