@@ -1,19 +1,22 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.eb63abad.css",
-    "main.js": "/my-portfolio/static/js/main.919be65e.js",
+    "main.js": "/my-portfolio/static/js/main.426db138.js",
     "static/js/453.41811d64.chunk.js": "/my-portfolio/static/js/453.41811d64.chunk.js",
-    "static/media/proj-lonestar.png": "/my-portfolio/static/media/proj-lonestar.f9dc221fa1308dde599e.png",
-    "static/media/proj-287g.png": "/my-portfolio/static/media/proj-287g.33293a126cadd37fe867.png",
+    "static/media/proj-dc-police.png": "/my-portfolio/static/media/proj-dc-police.d480f402582cbc642d1e.png",
+    "static/media/proj-wv-police.png": "/my-portfolio/static/media/proj-wv-police.86c8bae1df62f486caea.png",
+    "static/media/proj-nj-stops.png": "/my-portfolio/static/media/proj-nj-stops.5c42f989e793808ae2e8.png",
+    "static/media/proj-tx-lonestar.png": "/my-portfolio/static/media/proj-tx-lonestar.f9dc221fa1308dde599e.png",
+    "static/media/proj-nat-deputized.png": "/my-portfolio/static/media/proj-nat-deputized.33293a126cadd37fe867.png",
     "static/media/bg-light.png": "/my-portfolio/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/bg-dark.png": "/my-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
     "index.html": "/my-portfolio/index.html",
     "main.eb63abad.css.map": "/my-portfolio/static/css/main.eb63abad.css.map",
-    "main.919be65e.js.map": "/my-portfolio/static/js/main.919be65e.js.map",
+    "main.426db138.js.map": "/my-portfolio/static/js/main.426db138.js.map",
     "453.41811d64.chunk.js.map": "/my-portfolio/static/js/453.41811d64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb63abad.css",
-    "static/js/main.919be65e.js"
+    "static/js/main.426db138.js"
   ]
 }
